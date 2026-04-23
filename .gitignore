@@ -1,0 +1,5 @@
+data/nyc_taxi/
+data/output/
+__pycache__/
+*.pyc
+.DS_Store
